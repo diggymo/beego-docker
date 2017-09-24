@@ -52,3 +52,5 @@ _testmain.go
 bee
 *.exe~
 .goxc.local.json
+
+/libexec/
